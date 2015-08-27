@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Joseph Smith Life Final.kml</name>
+	<!-- testing a new marker style -->
+	<Style id="bluedot">
+		<IconStyle>
+			<Icon>
+				<href>bluedot.png</href>
+			</Icon>
+			<scale>0.003</scale>
+			
+			<!-- hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/ -->
+		</IconStyle>
+	</Style>
+	
+	<Folder>
+	<Placemark>
+			<name>Sacred Grove</name>
+			<description>
+				<![CDATA[
+					<div class="new_h4">Sacred Grove</div>
+					<p><img src="sacredgrove.jpg" width="250" hight="180"></p>
+					<p>
+						In the Spring of 1820, Joseph Smith went into
+						a grove of trees to know which church was true.
+						It was here that Joseph Smith had the First Vision,
+						where he saw God, the Father, and His son, Jesus Christ
+						He was told none of the churches were true at the
+						time. He was told he would be an instrumental part of
+						restoring the fulness of the gospel to the earth again.
+					</p>
+				]]>
+			</description>
+			<LookAt>
+				<longitude>-77.24429599989649</longitude>
+				<latitude>43.04053300008663</latitude>
+				<altitude>0</altitude>
+				<heading>7.063693892062323e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000012294738</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#bluedot</styleUrl>
+			<!-- styleUrl>#m_ylw-pushpin0</styleUrl -->
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-77.24429599989649,43.04053300008663,0</coordinates>
+			</Point>
+		</Placemark>
+		</Folder>
+</Document>
+</kml>
