@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Joseph Smith Life Final.kml</name>
+	<name>utahlakedata.kml</name>
 	<!-- testing a new marker style -->
 	<Style id="bluedot">
 		<IconStyle>
@@ -16,7 +16,7 @@
 	
 	<Folder>
 	<Placemark>
-			<name>Sacred Grove</name>
+			<name>Sample Point</name>
 			<description>
 				<![CDATA[
 					<div class="new_h4">Point 1</div>
@@ -39,7 +39,7 @@
 			<!-- styleUrl>#m_ylw-pushpin0</styleUrl -->
 			<Point>
 				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-77.24429599989649,43.04053300008663,0</coordinates>
+				<coordinates>-111.83400381356478,40.19449255252672,0</coordinates>
 			</Point>
 		</Placemark>
 		</Folder>
