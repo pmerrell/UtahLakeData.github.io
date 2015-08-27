@@ -19,22 +19,16 @@
 			<name>Sacred Grove</name>
 			<description>
 				<![CDATA[
-					<div class="new_h4">Sacred Grove</div>
+					<div class="new_h4">Point 1</div>
 					<p><img src="sacredgrove.jpg" width="250" hight="180"></p>
 					<p>
-						In the Spring of 1820, Joseph Smith went into
-						a grove of trees to know which church was true.
-						It was here that Joseph Smith had the First Vision,
-						where he saw God, the Father, and His son, Jesus Christ
-						He was told none of the churches were true at the
-						time. He was told he would be an instrumental part of
-						restoring the fulness of the gospel to the earth again.
+					Phosphorus
 					</p>
 				]]>
 			</description>
 			<LookAt>
-				<longitude>-77.24429599989649</longitude>
-				<latitude>43.04053300008663</latitude>
+				<longitude>-111.83400381356478</longitude>
+				<latitude>40.19449255252672</latitude>
 				<altitude>0</altitude>
 				<heading>7.063693892062323e-011</heading>
 				<tilt>0</tilt>
